@@ -1,0 +1,235 @@
+{
+  "configuracoes":{
+    "vidaMaxima": 5, 
+    "vidaInicial":4
+  },
+  "mapa":[
+      {
+        "obstaculo": 2,
+        "velocidade": 20
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 20
+      },
+     {
+        "obstaculo": 0,
+        "velocidade": 30
+      },
+      
+      {
+        "obstaculo": 2,
+        "velocidade": 15
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 28
+      },
+    {
+        "obstaculo": 0,
+        "velocidade": 20
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 20
+      },
+     {
+        "obstaculo": 0,
+        "velocidade": 30
+      },
+      
+      {
+        "obstaculo": 2,
+        "velocidade": 15
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 28
+      },
+    {
+        "obstaculo": 2,
+        "velocidade": 27
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 35
+      },
+     {
+        "obstaculo": 0,
+        "velocidade": 33
+      },
+    {
+        "obstaculo": 2,
+        "velocidade": 27
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 35
+      },
+     {
+        "obstaculo": 0,
+        "velocidade": 33
+      },
+    
+    {
+        "obstaculo": 2,
+        "velocidade": 27
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 35
+      },
+     {
+        "obstaculo": 0,
+        "velocidade": 33
+      },
+    {
+        "obstaculo": 2,
+        "velocidade": 27
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 30
+      },
+     {
+        "obstaculo": 0,
+        "velocidade": 33
+      },
+    {
+        "obstaculo": 2,
+        "velocidade": 27
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 35
+      },
+     {
+        "obstaculo": 0,
+        "velocidade": 33
+      },
+    
+    {
+        "obstaculo": 2,
+        "velocidade": 23
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 25
+      },
+     {
+        "obstaculo": 0,
+        "velocidade": 33
+      },
+    {
+        "obstaculo": 2,
+        "velocidade": 23
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 25
+      },
+     {
+        "obstaculo": 0,
+        "velocidade": 33
+      },
+    {
+        "obstaculo": 2,
+        "velocidade": 23
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 25
+      },
+     {
+        "obstaculo": 0,
+        "velocidade": 33
+      },
+    
+    {
+        "obstaculo": 2,
+        "velocidade": 23
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 25
+      },
+     {
+        "obstaculo": 0,
+        "velocidade": 33
+      },
+    {
+        "obstaculo": 2,
+        "velocidade": 23
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 25
+      },
+     {
+        "obstaculo": 0,
+        "velocidade": 33
+      },
+    {
+        "obstaculo": 2,
+        "velocidade": 23
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 25
+      },
+     {
+        "obstaculo": 0,
+        "velocidade": 33
+      },
+    
+    {
+        "obstaculo": 2,
+        "velocidade": 23
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 25
+      },
+     {
+        "obstaculo": 0,
+        "velocidade": 33
+      },
+    {
+        "obstaculo": 2,
+        "velocidade": 23
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 25
+      },
+     {
+        "obstaculo": 0,
+        "velocidade": 33
+      },
+    {
+        "obstaculo": 2,
+        "velocidade": 23
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 25
+      },
+     {
+        "obstaculo": 0,
+        "velocidade": 33
+      },
+    
+    {
+        "obstaculo": 2,
+        "velocidade": 23
+      },
+      {
+        "obstaculo": 1,
+        "velocidade": 25
+      },
+     {
+        "obstaculo": 0,
+        "velocidade": 33
+      }
+    ]
+}
